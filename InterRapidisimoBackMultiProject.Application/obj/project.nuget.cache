@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aSJunj5eTlMMSxt+Yh420+6wKBzsrcGdD2F1bgJNEgU/Bq9dO56yIjkVHs3gsEUou1jAvWbAB9G1Nmz74yy0Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charles\\Documents\\InterRapidisimo\\InterRapidisimoBackend\\InterRapidisimoBackMultiProy\\InterRapidisimoBackMultiProject.Application\\InterRapidisimoBackMultiProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charles\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
